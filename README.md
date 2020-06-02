@@ -14,4 +14,5 @@ Colouring based on the default gedit theme and converted into dark mode.
 <img src="https://raw.githubusercontent.com/sseanik/Gedit-Dark-Theme/master/previewTheme.png" width="800" height="800">
 
 Compared to:
+
 <img src="https://raw.githubusercontent.com/sseanik/Gedit-Dark-Theme/master/previewDefault.png" width="800" height="800">
