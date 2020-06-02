@@ -1,4 +1,4 @@
-# Gedit-Dark-Theme
+# Gedit Dark Theme
 Colouring based on the default gedit theme and converted into dark mode.
 
 ## Installation:
