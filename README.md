@@ -5,6 +5,8 @@ Dark theme based on default Gedit light theme
 
 ![Preview of theme](https://raw.githubusercontent.com/sseanik/Gedit-Dark-Theme/master/previewTheme.png)
 
+<img src="https://raw.githubusercontent.com/sseanik/Gedit-Dark-Theme/master/previewTheme.png" width="100" height="100">
+
 
 ## Installation:
 
