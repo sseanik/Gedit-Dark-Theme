@@ -10,6 +10,6 @@ Colouring based on the default gedit theme and converted into dark mode.
 
 ## Preview: 
 
-[(Preview Default)](https://raw.githubusercontent.com/sseanik/Gedit-Dark-Theme/master/previewDefault.png)
+[(Default for comparison)](https://raw.githubusercontent.com/sseanik/Gedit-Dark-Theme/master/previewDefault.png)
 
 <img src="https://raw.githubusercontent.com/sseanik/Gedit-Dark-Theme/master/previewTheme.png" width="800" height="800">
